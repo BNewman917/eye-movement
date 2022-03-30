@@ -22,7 +22,7 @@ Add styling to make different faces and eye colors. Add random blink.
 
 Much of this code was provided as part of the assignment.
 
-Copyright (c) 2020 Brent Newman
+Copyright (c) 2022 Brent Newman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
