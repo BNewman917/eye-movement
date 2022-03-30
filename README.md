@@ -16,7 +16,9 @@ A simple page with two eyes that follow your mouse movement.
 
 <h3>Future Plans</h3>
 
-Add styling to make different faces and eye colors. Add random blink.
+- Styling to make different faces and eye colors
+- Blink effect
+- Mobile touch responsive
 
 <h3>Notes</h3>
 
